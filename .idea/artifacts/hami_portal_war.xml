@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hami_portal:war">
+    <output-path>$PROJECT_DIR$/hami_portal/target</output-path>
+    <root id="archive" name="hami_portal-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="hami_portal:war exploded" />
+    </root>
+  </artifact>
+</component>
